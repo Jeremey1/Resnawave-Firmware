@@ -1,0 +1,8 @@
+{
+  "dual_url": "https://raw.githubusercontent.com/Jeremey1/Resnawave-Firmware/main/nextion_dual.tft?sha256=e76b070c5667413b7733529ef9ced9ed089fb8491edcb875503085f6e69c2d24",
+  "dual_size": "6220064",
+  "dual_sha256": "e76b070c5667413b7733529ef9ced9ed089fb8491edcb875503085f6e69c2d24",
+  "single_url": "https://raw.githubusercontent.com/Jeremey1/Resnawave-Firmware/main/nextion_single.tft?sha256=2f35a080b37f9259d40073f29b7dc648c6bfc59295b861806a25f89d8f15ef44",
+  "single_size": "9543544",
+  "single_sha256": "2f35a080b37f9259d40073f29b7dc648c6bfc59295b861806a25f89d8f15ef44"
+}
