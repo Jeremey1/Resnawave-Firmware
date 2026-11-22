@@ -3,8 +3,8 @@
   "dual_size": "6220080",
   "dual_sha256": "8519b74a3952eed3bb05a265c5647f952b08feaa6389b6a7b50ccc0736cb37fe",
   "dual_version": "11.3",
-  "single_url": "https://raw.githubusercontent.com/Jeremey1/Resnawave-Firmware/main/nextion_single.tft?sha256=d9e0346a1223e0d18d8588571353b1705d5c09d5e1ac5d35b9b631beba1c8cb2",
-  "single_size": "10101700",
-  "single_sha256": "d9e0346a1223e0d18d8588571353b1705d5c09d5e1ac5d35b9b631beba1c8cb2",
+  "single_url": "https://raw.githubusercontent.com/Jeremey1/Resnawave-Firmware/main/nextion_single.tft?sha256=f1c33b38596ad0360ed2f6499a7939cf4580a633d8b9bcb1e7b393ba885cfcc2",
+  "single_size": "10104508",
+  "single_sha256": "f1c33b38596ad0360ed2f6499a7939cf4580a633d8b9bcb1e7b393ba885cfcc2",
   "single_version": "1.3"
 }
